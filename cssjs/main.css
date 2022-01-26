@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    font-family: 'Roboto';
+}
+body {
+    background-color: rgb(39, 36, 36);
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: unset;
+}
+li {
+    list-style: none;
+}
+nav {
+    background-color: rgb(45, 45, 45);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.navi {
+    font-size: 16px;
+    position: fixed;
+    top: 30px;
+}
+.navlogo {
+    font-size: 35px;
+    padding: 8px;
+    padding-left: 15px;
+}
+.home {
+    right: 250px;
+}
+.games {
+    right: 150px;
+}
+.settings {
+    right: 50px;
+}
+.gamesi {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+}
+.game {
+    width: 230px;
+    height: 310px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid white;
+    display: inline-block;
+    margin-right: 35px;
+    margin-left: 35px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    }
+    
