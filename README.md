@@ -5,5 +5,7 @@ Anyway yes this is a game site i'm making. Do feel free to copy it set it as you
 
 # Credits
 Flash emulator: https://ruffle.rs/
+
 NES SNES GBA GENESIS emulators https://github.com/BinBashBanana/webretro
+
 N64 Emulator https://www.emulatorjs.com/n64.html
