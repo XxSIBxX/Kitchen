@@ -1,7 +1,7 @@
 # gsite173
-its a game site with the numbers 173 because yes.
+its a game site i named kitchen (ignore the typo in the logo in the website) because i got bored and want to play bloons tower defense 3 unlimited money in shcool.
 
-Anyway yes this is a game site i'm making. Do feel free to copy it set it as your own game site.
+Anyway yes this is a game site i'm making. Do feel free to copy it and set it as your own game site.
 
 # Credits
 Flash emulator: https://ruffle.rs/
